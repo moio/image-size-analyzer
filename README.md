@@ -2,6 +2,8 @@
 
 This repository contains a collection of tools for analyzing and visualizing the size of container images.
 
+![rancher_rancher-agent_linux_amd64.svg](docs/rancher_rancher-agent_linux_amd64.svg)
+
 ---
 
 ## Table of Contents
